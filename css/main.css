@@ -1,8 +1,12 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  font-family: "Bevan", sans-serif;
+  font-family: 'Bevan', sans-serif;
   line-height: 1.5;
+}
+
+body {
+  background-color: #79756f;
 }
 
 *, *::before, *::after {
@@ -21,6 +25,7 @@ a {
   margin: 3em;
   padding: 6em;
   border: 3px solid #595652;
+  border-radius: .5em .75em;
   list-style-type: none;
 }
 
