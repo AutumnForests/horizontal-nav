@@ -19,8 +19,9 @@ a {
   color: #fff;
   background-color: #713837;
   margin: 3em;
-  padding: 6em, .5em .75em;
+  padding: 6em;
   border: 3px solid #595652;
+  list-style-type: none;
 }
 
 a:hover {
