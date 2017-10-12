@@ -8,3 +8,21 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+header {
+  font-family: "Bevan", sans-serif;
+  color: #fff;
+}
+
+a {
+  display: inline-block;
+  color: #fff;
+  background-color: #713837;
+  margin: 3em;
+  padding: 6em, .5em .75em;
+  border: 3px solid #595652;
+}
+
+a:hover {
+  background-color: #f33;
+}
