@@ -29,6 +29,7 @@ header {
 
 a {
   display: inline-block;
+  font-family: "Bevan", sans-serif;
   color: #fff;
   background-color: #713837;
   margin: .3em;
