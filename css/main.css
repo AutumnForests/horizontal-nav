@@ -8,6 +8,7 @@ html {
 body {
   background-color: #79756f;
   margin: 0;
+  border: 3px solid #595652;
 }
 
 h1 {
@@ -32,7 +33,6 @@ a {
   background-color: #713837;
   margin: .3em;
   padding: .6em;
-  border: 3px solid #595652;
   list-style-type: none;
 }
 
