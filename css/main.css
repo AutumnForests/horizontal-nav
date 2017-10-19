@@ -29,7 +29,7 @@ header {
 }
 
 nav li {
-  display: inline;
+  display: inline-block;
   text-align: center;
   font-family: Bevan, sans-serif;
   color: #fff;
