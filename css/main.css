@@ -31,6 +31,9 @@ header {
 nav li {
   display: inline;
   text-align: center;
+  font-family: Bevan, sans-serif;
+  color: #fff;
+  background-color: #713837;
   border-radius: .5em .75em;
   margin: .3em;
   padding: .6em;
