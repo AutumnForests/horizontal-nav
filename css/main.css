@@ -20,6 +20,7 @@ h1 {
   font-weight: bold;
   font-family: Bevan, sans-serif;
   padding: .5em .75em;
+  text-align: center;
 }
 
 header {
@@ -37,6 +38,12 @@ nav li {
   margin: .3em;
   padding: .6em;
   list-style-type: none;
+}
+
+a {
+  font-family: Bevan, sans-serif;
+  color: #fff;
+  background-color: #713837;
 }
 
 a:hover {
