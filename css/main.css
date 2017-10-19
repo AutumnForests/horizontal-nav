@@ -20,6 +20,7 @@ h1 {
   font-weight: bold;
   font-family: Bevan, sans-serif;
   text-align: center;
+  margin: 0em;
 }
 
 header {
@@ -34,9 +35,14 @@ nav li {
   color: #fff;
   background-color: #713837;
   border-radius: .5em .75em;
-  margin: .3em;
+  margin-bottom: .3em;
   padding: .5em .75em;
   list-style-type: none;
+}
+
+ul {
+  padding: 0;
+  text-align: center;
 }
 
 a {
@@ -44,6 +50,7 @@ a {
   color: #fff;
   background-color: #713837;
   text-align: center;
+  text-decoration: none;
 }
 
 a:hover {
