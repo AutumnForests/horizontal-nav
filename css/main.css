@@ -34,7 +34,7 @@ nav li {
   font-family: Lato, sans-serif;
   color: #fff;
   background-color: #713837;
-  border-radius: .5em;
+  border-radius: .5em .75em;
   margin: .3em;
   padding: .5em .75;
   list-style-type: none;
