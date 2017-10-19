@@ -5,6 +5,10 @@ html {
   line-height: 1.5;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
 body {
   background-color: #79756f;
   margin: 0;
@@ -18,17 +22,13 @@ h1 {
   padding: .5em .75em;
 }
 
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
 header {
   font-family: Bevan, sans-serif;
   color: #fff;
 }
 
-a {
-  display: inline-block;
+nav li {
+  display: inline;
   text-align: center;
   font-family: Bevan, sans-serif;
   color: #fff;
